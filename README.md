@@ -1,2 +1,2 @@
 # implementationPygame
-![alt text](ashishthehulk.github.com/implementationPygame/img/image.png)
+![alt text](https://github.com/ashishthehulk/implementationPygame/img/image.png)
